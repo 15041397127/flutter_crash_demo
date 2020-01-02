@@ -11,6 +11,8 @@ bool get isInDebugMode{
   assert(inDebugMode = true);
   return inDebugMode;
 
+  
+
 }
 
 //上报数据至Bugly
